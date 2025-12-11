@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on front-end UI development using HTML, CSS, Bootstrap, and Tailwind CSS<br><br>Passionate about creating clean, user-centered UX/UI designs<br><br>Skilled in Figma, HTML, CSS, Tailwind CSS, and Git<br><br>Exploring React.js, JavaScript, MongoDB, and the MERN stack at a beginner level
+💫 Currently working on front-end UI development using HTML, CSS, Bootstrap, and Tailwind CSS<br><br>💫Passionate about creating clean, user-centered UX/UI designs<br><br>💫Skilled in Figma, HTML, CSS, Tailwind CSS, and Git<br><br>💫Exploring React.js, JavaScript, MongoDB, and the MERN stack at a beginner level
 
 
 ## 🌐 Socials:
